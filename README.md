@@ -1,2 +1,1 @@
-# htmlhomework
-Html homework1
+The project is about refactoring the people to make it more accessibile and neat. I added headers, figures, and images alts. As well as cleaned up the code to keep it working in a longer run than the orignal and tidied it up a little bit to keep it neat. While all keeping the website with the same design it was given before.
